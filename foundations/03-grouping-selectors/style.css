@@ -10,3 +10,6 @@
 .no {
     background-color: yellow;
 }
+
+/*Made mistake of assigning 2 classes to each button.*/
+/*Then, when using only 1 class per button, made mistake by chaining the two classes (.yes.no) instead of grouping as a comma-separated list. style did not go through since there are no elements with both "yes" and "no" class.*/

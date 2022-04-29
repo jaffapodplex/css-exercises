@@ -13,3 +13,5 @@
 .boi {
     font-size: 24px;
 }
+
+/*Made mistake of writing two class elements (class="x" class="y") instead of one class element with multiple classes (class="x y")*/
